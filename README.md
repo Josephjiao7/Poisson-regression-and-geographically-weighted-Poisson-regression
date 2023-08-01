@@ -8,3 +8,5 @@ Geographically Weighted Regression (GWR) aims to address the issue of spatial he
 We used the Sel_BW class from the mgwr (MultiGWR) library to determine the optimal bandwidth. Sel_BW is a bandwidth selector for Geographically Weighted Regression (GWR) models, and it uses criterion-based optimization to find the best bandwidth size.
 
 The code of R, as you can see at https://zia207.github.io/geospatial-r-github.io/geographically-weighted-poisson-regression.html
+
+For Chinese readers, you can see the introduction at WeChat, https://mp.weixin.qq.com/s/ZX4NcvZGwtj7FCgdY9viTw
